@@ -1,0 +1,280 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* --------------------contact------------------- */
+.contact{
+    background-color: black;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 60px;
+} 
+.Contact-a{
+    text-decoration: none;
+    color: rgb(241, 143, 14);
+}
+.contact-p{
+    color: white; 
+}
+.contact-img{
+    background-image: url(./images/BG1.png);
+    padding: 540px;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+/*--------------- NAVIGATION BAR------------------------- */
+.my-navbar{
+    text-align: right;
+    padding: 0px;
+}
+
+
+/*--------------- LOGOS ------------------------- */
+.my_logos{
+    padding: 40px
+}
+
+.my-log-image-microsoft{
+    height: 50px;
+    width: 190px;
+    padding-left: 50px ;
+}
+.my-log-image-intuit{
+    height: 50px;
+    width: 180px;
+    padding-left: 50px ;
+    padding-bottom: 8px;
+}
+.my-log-image-veeam{
+    height: 53px;
+    width: 180px;
+    padding-left: 30px ;
+}
+.my-log-image-crayon{
+    height: 60px;
+    width: 180px;
+    padding-left: 30px ;
+    padding-bottom: 10px;
+}
+.my-log-image-salesforce{
+    height: 120px;
+    width: 160px;
+    padding-left: 30px ;
+    padding-bottom: 50px;
+}
+.my-log-image-vmware{
+    width: 180px;
+    padding-top: 20px;
+}
+/* ------------------------------- our application --------------------------------- */
+.hr-tag{
+    width: 10%;
+    margin-left: 45%;
+}
+.our-app-h1{
+    text-align:center;
+    float:center; 
+}
+.our-app-heading{
+    display:inline;
+    text-align: center; 
+    align-items: center; 
+}
+
+/* ------------------------------- book cover cloud hosting --------------------------------- */
+.book-img{
+      width: 80%;
+      padding-bottom: 20px;
+}
+
+.themeBtn {
+    background: #ff5c00;
+    color: #ffffff !important;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 500;
+    background: -webkit-linear-gradient(to right, #fc4a1a, #f7b733); 
+    background: linear-gradient(to right,#fc4a1a, #f7b733); 
+    height: 35px;
+    line-height: 0.8;
+    padding: 12px 30px;
+    text-transform: capitalize;
+    border-radius: 1px;
+    letter-spacing: 0.5px;
+	border:0px !important;
+	cursor:pointer;
+	border-radius:100px;
+    margin-top: 50px;
+}
+.button-border{
+    border: 1px solid black;
+    width: 10px;
+}
+.center-text-book-cover{
+    text-align: left;
+
+}
+.hr-tag-tax{
+    width: 40%;
+    margin-left: 23%;
+    border: 2px;
+}
+.themeBtn2 {
+    background: #ff5c00;
+    color: #ffffff !important;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 500;
+    background: -webkit-linear-gradient(to right, #fc4a1a, #f7b733); 
+    background: linear-gradient(to right,#fc4a1a, #f7b733); 
+    height: 35px;
+    line-height: 0.8;
+    padding: 12px 43px;
+    text-transform: capitalize;
+    border-radius: 1px;
+    letter-spacing: 0.5px;
+	border:0px !important;
+	cursor:pointer;
+	border-radius:100px;
+    margin-top: 50px;
+}
+.themeBtn3 {
+
+ 
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 500;
+
+    height: 35px;
+    line-height: 0.8;
+    padding: 12px 30px;
+
+    border-radius: 1px;
+    letter-spacing: 0.5px;
+ 
+	cursor:pointer;
+	border-radius:100px;
+    margin-top: 50px;
+    border: 1px solid black;
+}
+.image-man-book{
+    width: 100%;
+}
+.div-width-book{
+    width: 80%;
+    padding-top: 80px;
+}
+.book-p-tag{
+    font-size: 15px;
+}
+
+.hr-tag-book{
+    width: 35%;
+
+    border: 2px;
+}
+/* -----------------------------CERTIFICATION-------------------------- */
+.certrificate-img {
+    border:2px solid #fff;
+    color:white;
+    -moz-box-shadow: 10px 10px 50px #ccc;
+    -webkit-box-shadow: 10px 10px 50px #ccc;
+    box-shadow: 10px 10px 50px #ccc;
+}
+/* *----------------------------ANY QUESTION--------------------- */
+.ques-div-1{
+    height: 200px;
+    width: 35px;
+    background-color: rgb(255, 171, 75);
+}
+.ques-div-2{
+    text-align: left;
+    padding-top: 150px;
+    padding-left: 30px;
+}
+.ques-div-3{
+    background: -webkit-linear-gradient(to right, #fc4a1a, #f7b733); 
+    background: linear-gradient(to right,#fc4a1a, #f7b733); 
+    width: 300px;
+    padding-top: 30px;
+}
+.ques-h3{
+    color: rgb(255, 81, 0);
+}
+
+.ques-hr{
+    width: 27%;
+    border: 2px;
+}
+.themeBtn-ques {
+ 
+     
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 500;
+ 
+    height: 35px;
+    line-height: 0.8;
+    padding: 12px 30px;
+    text-transform: capitalize;
+    border-radius: 1px;
+    letter-spacing: 0.5px;
+	border:0px !important;
+	cursor:pointer;
+	border-radius:100px;
+    margin-top: 50px;
+}
+
+
+/*----------------------------------slider------------------------------------*/
+.slider-cont{
+    height: 100%;
+ 
+    text-align: center;
+    padding-left: 10%;
+     
+}
+.my-name-one{
+       min-height: 80vh;
+       width: 80%;
+       background-color: white;
+}
+.my-name-one-2{
+       min-height: 60vh;
+       background-color: #ffffff; 
+       margin: 50px;
+       border-radius: 2px;
+       border: 1px dotted;
+       border-radius: 20px;
+       margin-top: 27%;
+}
+.my-name-one-2-bg{
+    min-height: 30vh;
+    background-color: rgb(204, 204, 204);
+    text-align: center;
+    align-items: center;
+    border-radius: 20px;
+}
+.my-name-one-large{
+    min-height: 70vh;
+ 
+       background-color: #ffffff; 
+       margin: 50px;
+       border-radius: 2px;
+       border: 1px dotted;
+       border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
